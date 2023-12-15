@@ -1,4 +1,4 @@
-package org.ot5usk.browser_sessions_factory;
+package org.ot5usk.utils.browser_sessions_factory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
